@@ -45,7 +45,7 @@ namespace Kata.Fibonacci
             }
             catch (Exception ex)
             {
-                if (ex.GetType() == typeof(FibonacciOutOfRangeException))
+                if (ex.GetType() == typeof (FibonacciOutOfRangeException))
                 {
                     expectedExceptionAttribute = true;
                 }

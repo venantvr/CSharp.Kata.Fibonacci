@@ -6,7 +6,6 @@ namespace Kata.Calculator
     {
         public FibonacciOutOfRangeException() : base(@"i doit être positif")
         {
-
         }
     }
 }
