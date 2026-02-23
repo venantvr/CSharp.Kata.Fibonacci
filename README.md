@@ -10,4 +10,4 @@ Kata de programmation : implémentation de la suite de Fibonacci en TDD avec ges
 
 ## Stack
 
-C# / .NET Framework / NUnit
+[![Stack](https://skillicons.dev/icons?i=dotnet,cs&theme=dark)](https://skillicons.dev)
